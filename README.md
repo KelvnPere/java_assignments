@@ -10,9 +10,3 @@ This is a project that contains my progress in working on the assignments requir
 * Spring_MVC
  MSQL.
 * And more :)
-
-
-M = Model
-V = View
-VM = ViewModel
-
